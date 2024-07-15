@@ -1,0 +1,11 @@
+<!-- res/drawable/custom_progressbar.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="line">
+                <stroke android:color="@color/darkLegal" android:width="4dp"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:padding="0dp">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="368dp"
+        android:layout_height="361dp"
+        android:maxHeight="458dp"
+        android:minHeight="300dp"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+        <TextView
+            android:id="@+id/Heading"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="30dp"
+            android:text="LegalLens"
+            android:textColor="#EF0466"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/SemVer"
+            android:layout_width="131dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="85dp"
+            android:text="Version : 1.5.1"
+            android:textColor="#787676" />
+
+        <TextView
+            android:id="@+id/Developers"
+            android:layout_width="310dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="120dp"
+            android:text="Developed By : \n\t ➢ Kaustav Raj Chakraborty\n\t ➢ Ruchita Das\n\t ➢ Pratiksha Jha\n\nLegalLens is designed to be a Deployment platform for our major project, based on the study of different NLP-based models for the purpose of summarization of legislative Bills."
+            android:textColor="#535252" />
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

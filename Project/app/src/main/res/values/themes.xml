@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MajorProject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@android:color/black</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Custom selection handle -->
+        <item name="android:textSelectHandle">@drawable/pink_selection_handle</item>
+    </style>
+
+    <style name="Theme.MajorProject" parent="Base.Theme.MajorProject" />
+</resources>
