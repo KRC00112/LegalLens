@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ProjectAdmin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- Change the entered text color -->
+        <item name="android:editTextColor">#5A5858</item>
+
+        <!-- Change the hint text color for the SearchView -->
+        <item name="android:textColorHint">#5F5D5D</item>
+    </style>
+
+
+
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:textColor">#504E4E</item>
+        <item name="android:editTextColor">#504E4E</item>
+        <item name="android:textColorHint">#9A9696</item>
+        <item name="android:queryBackground">@drawable/search_icon</item>
+        <item name="android:closeIcon">@drawable/close</item>
+
+
+
+    </style>
+
+    <style name="Theme.ProjectAdmin" parent="Base.Theme.ProjectAdmin" />
+</resources>
