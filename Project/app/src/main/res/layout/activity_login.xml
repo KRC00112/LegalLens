@@ -120,7 +120,6 @@
         android:layout_marginTop="20dp"
         android:text="Don't have an account?"
         android:textColor="#FFFDFD"
-        android:textStyle="italic"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/loginToTheMain" />
 
@@ -133,7 +132,7 @@
         android:onClick="redirectToRegister"
         android:text="Sign up"
         android:textColor="#EF0466"
-        android:textStyle="bold|italic"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/textView4"
         app:layout_constraintTop_toBottomOf="@+id/loginToTheMain" />
@@ -146,7 +145,7 @@
         android:paddingRight="10dp"
         android:text="Forgot Password?"
         android:textColor="#EF0466"
-        android:textStyle="bold|italic"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
