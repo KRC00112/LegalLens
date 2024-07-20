@@ -1,4 +1,4 @@
-# LegalLens: An Android App for Automated Summarization of Legislative Bills using Transformer based Model
+# LegalLens
 
 ## About LegalLens
 
