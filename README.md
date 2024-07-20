@@ -12,9 +12,9 @@ The transformer-based models were trained for 10 epochs, and their performance w
 | microsoft/prophetnet-large-uncased  | 0.50    | 0.23    | 0.31    | 0.31        |
 
 Additionally, the K-means extractive technique achieved the following ROUGE scores:
-•	ROUGE-1: 0.3505
-•	ROUGE-2: 0.0909
-•	ROUGE-L: 0.2680
+-	ROUGE-1: 0.3505
+-	ROUGE-2: 0.0909
+-	ROUGE-L: 0.2680
 Among all models, Pegasus emerged as the top performer, demonstrating superior performance across all metrics. Due to its results, Pegasus was selected for implementation within LegalLens. By leveraging the power of Pegasus, LegalLens provides legal professionals, students, and researchers with an accessible and user-friendly tool to quickly generate summaries of extensive legal documents. 
 
 
