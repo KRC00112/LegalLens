@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#040404"
+    android:background="#000000"
     tools:context=".loginActivity">
 
     <TextView
@@ -90,7 +90,6 @@
                 app:layout_constraintTop_toTopOf="@+id/password"
                 app:layout_constraintVertical_bias="0.47000003"
                 app:srcCompat="@drawable/visibility_off" />
-
 
 
         </androidx.constraintlayout.widget.ConstraintLayout>
