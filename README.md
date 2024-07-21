@@ -34,18 +34,14 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
 </p>
 
 
-### Main Screen
+### Main Screen and Summarization History Screen
 <br/>
  <p align="left">
-  <img src="https://github.com/user-attachments/assets/0d9afd48-cafc-494e-b7f0-f6146d0df322" alt="Main Screen Image" width="300";"/>
-</p>
-
-
-### Summarization History 
-<br/>
- <p align="left">
+  <img src="https://github.com/user-attachments/assets/cbeceb3a-be10-4880-870f-6afdf034fa6f" alt="Main Screen Image" width="300";"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/1ac390fe-7371-4675-9a9e-a71f090e0469" alt="history Image" width="300";"/>
 </p>
+
 
 ### Settings
 <br/>
