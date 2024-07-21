@@ -28,7 +28,7 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
 ### Authorization(Login and Registration)
 <br/>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/d3b1e30b-c806-4d3b-a787-2d81b1422dca" alt="Login Image" width="300";"/>
+  <img src="https://github.com/user-attachments/assets/1d77ce4b-bffb-4f42-9f82-fab551be1e22" alt="Login Image" width="300";"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/82a7429a-74c7-43be-ac66-d908af3b7d93" alt="Register Image" width="300";"/>
 </p>
@@ -49,13 +49,29 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
   <img src="https://github.com/user-attachments/assets/f84b7f56-f88c-495a-a65f-421bb911f0a1" alt="settings Image" width="300";"/>
 </p>
 
+## Admin Interface
+
+### Authorization(Login and Registration)
+<br/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b47d18f1-df77-4372-b883-2d4fe87568d1" alt="Login Image" width="300";"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c011cd21-74a0-45a4-8f7a-3c5ff5f03a29" alt="Register Image" width="300";"/>
+</p>
+
+*Note: Here, We use employee ID for authentication instead of a username, driven by sheer curiosity. Unlike users, whose authentication is done using email, employees' authentication is based on their own unique Employee ID.
+The regex for employee ID is "LL20(2[4-9]|[3-9][0-9])(DEV|MAN)\d{4}". This pattern means that only those employees whose ID matches the regex can log in. The regex ensures the following:
+The ID starts with "LL20".
+Followed by a number between 24 and 99.
+Followed by either "DEV" or "MAN".
+Followed by exactly 4 digits.*
 
 
-
-
-
-
-
-
+### Users' List & Details Screeens
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/fbf6fa8b-b15b-403e-adce-2901497974a8" alt="listScreen Image" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c130d2a6-d23c-482d-92cc-0391b0b75179" alt="details Image" width="300"/>
+</p>
 
 
