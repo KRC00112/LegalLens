@@ -61,10 +61,10 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
 
 *Note: Here, We use employee ID for authentication instead of a username, driven by sheer curiosity. Unlike users, whose authentication is done using email, employees' authentication is based on their own unique Employee ID.
 The regex for employee ID is "LL20(2[4-9]|[3-9][0-9])(DEV|MAN)\d{4}". This pattern means that only those employees whose ID matches the regex can log in. The regex ensures the following:
-The ID starts with "LL20".
-Followed by a number between 24 and 99.
-Followed by either "DEV" or "MAN".
-Followed by exactly 4 digits.*
+- The ID starts with "LL20".
+- Followed by a number between 24 and 99.
+- Followed by either "DEV" or "MAN".
+- Followed by exactly 4 digits.*
 
 
 ### Users' List & Details Screeens
