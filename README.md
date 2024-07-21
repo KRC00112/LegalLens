@@ -23,6 +23,14 @@ Additionally, the K-means extractive technique achieved the following ROUGE scor
   
 Among all models, Pegasus emerged as the top performer, demonstrating superior performance across all metrics. Due to its results, Pegasus was selected for implementation within LegalLens. By leveraging the power of Pegasus, LegalLens provides legal professionals, students, and researchers with an accessible and user-friendly tool to quickly generate summaries of extensive legal documents. 
 
+## User Interface
+
+### Authorization
+
+
+![WhatsApp Image 2024-07-21 at 15 44 45](https://github.com/user-attachments/assets/d3b1e30b-c806-4d3b-a787-2d81b1422dca)
+
+
 
 
 
