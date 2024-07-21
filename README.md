@@ -26,13 +26,33 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
 ## User Interface
 
 ### Authorization(Login and Registration)
-
-
+<br/>
 <p align="left">
   <img src="https://github.com/user-attachments/assets/d3b1e30b-c806-4d3b-a787-2d81b1422dca" alt="Login Image" width="300";"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/82a7429a-74c7-43be-ac66-d908af3b7d93" alt="Register Image" width="300";"/>
 </p>
+
+
+### Main Screen
+<br/>
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/0d9afd48-cafc-494e-b7f0-f6146d0df322" alt="Main Screen Image" width="300";"/>
+</p>
+
+
+### Summarization History 
+<br/>
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/1ac390fe-7371-4675-9a9e-a71f090e0469" alt="history Image" width="300";"/>
+</p>
+
+### Settings
+<br/>
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/f84b7f56-f88c-495a-a65f-421bb911f0a1" alt="settings Image" width="300";"/>
+</p>
+
 
 
 
