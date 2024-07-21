@@ -28,7 +28,10 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
 ### Authorization
 
 
-<img src="https://github.com/user-attachments/assets/d3b1e30b-c806-4d3b-a787-2d81b1422dca" alt="WhatsApp Image" width="300"/>
+<img src="https://github.com/user-attachments/assets/d3b1e30b-c806-4d3b-a787-2d81b1422dca" alt="Login Image" width="300"/>
+<img src="https://github.com/user-attachments/assets/82a7429a-74c7-43be-ac66-d908af3b7d93" alt="Register Image" width="300"/>
+
+
 
 
 
