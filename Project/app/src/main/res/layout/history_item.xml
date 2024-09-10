@@ -115,6 +115,15 @@
 
         </LinearLayout>
 
+        <TextView
+            android:id="@+id/viewMoreTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="70dp"
+            android:text="Click To View More >>"
+            android:textColor="#FBFAFA" />
+
 
     </androidx.cardview.widget.CardView>
 
