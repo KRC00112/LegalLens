@@ -52,6 +52,8 @@ public class HistoryAdapter extends RecyclerView.Adapter<HistoryAdapter.ViewHold
                 int outputLabelVisibility = holder.outputLabel.getVisibility() == View.VISIBLE ? View.GONE : View.VISIBLE;
                 int clipboardBillVisibility=holder.clipboardBill.getVisibility() == View.VISIBLE ? View.GONE : View.VISIBLE;
                 int clipboardSummaryVisibility=holder.clipboardSummary.getVisibility() == View.VISIBLE ? View.GONE : View.VISIBLE;
+                int viewMoreVisibility=holder.viewMoreTextView.getVisibility() == View.GONE ? View.VISIBLE : View.GONE;
+
 
 
                 holder.inputTextView.setVisibility(inputVisibility);
@@ -60,6 +62,7 @@ public class HistoryAdapter extends RecyclerView.Adapter<HistoryAdapter.ViewHold
                 holder.outputLabel.setVisibility(outputLabelVisibility);
                 holder.clipboardBill.setVisibility(clipboardBillVisibility);
                 holder.clipboardSummary.setVisibility(clipboardSummaryVisibility);
+                holder.viewMoreTextView.setVisibility(viewMoreVisibility);
 
 
 
@@ -83,6 +86,8 @@ public class HistoryAdapter extends RecyclerView.Adapter<HistoryAdapter.ViewHold
         ImageButton clipboardBill;
         ImageButton clipboardSummary;
 
+        TextView viewMoreTextView;
+
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
             timestampTextView = itemView.findViewById(R.id.timestampTextView);
@@ -93,6 +98,7 @@ public class HistoryAdapter extends RecyclerView.Adapter<HistoryAdapter.ViewHold
             cardView = itemView.findViewById(R.id.historyCard);
             clipboardBill=itemView.findViewById(R.id.clipboardBill);
             clipboardSummary=itemView.findViewById(R.id.clipboardSummary);
+            viewMoreTextView=itemView.findViewById(R.id.viewMoreTextView);
 
             clipboardBill.setOnClickListener(new View.OnClickListener() {
                 @Override
