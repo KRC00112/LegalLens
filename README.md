@@ -39,7 +39,7 @@ Among all models, Pegasus emerged as the top performer, demonstrating superior p
  <p align="left">
   <img src="https://github.com/user-attachments/assets/cbeceb3a-be10-4880-870f-6afdf034fa6f" alt="Main Screen Image" width="300";"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/1ac390fe-7371-4675-9a9e-a71f090e0469" alt="history Image" width="300";"/>
+  <img src="https://github.com/user-attachments/assets/b1b1fc25-a94c-45a3-90a3-8a7f14ca6c51" alt="history Image" width="300";"/>
 </p>
 
 
@@ -74,4 +74,5 @@ The regex for employee ID is "LL20(2[4-9]|[3-9][0-9])(DEV|MAN)\d{4}". This patte
   <img src="https://github.com/user-attachments/assets/c130d2a6-d23c-482d-92cc-0391b0b75179" alt="details Image" width="300"/>
 </p>
 
+https://github.com/user-attachments/assets/b1b1fc25-a94c-45a3-90a3-8a7f14ca6c51
 
